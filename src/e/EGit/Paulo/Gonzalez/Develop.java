@@ -12,6 +12,12 @@ public class Develop {
 	public void setId(int id) {
 		this.id = id;
 	}
+	public int getEdad() {
+		return edad;
+	}
+	public void setEdad(int edad) {
+		this.edad = edad;
+	}
 	
 	
 
