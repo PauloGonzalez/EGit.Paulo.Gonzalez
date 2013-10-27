@@ -13,4 +13,7 @@ public class Release {
 	public void valortotal() {
 
 	}
+	public void valortota2() {
+
+	}
 }
