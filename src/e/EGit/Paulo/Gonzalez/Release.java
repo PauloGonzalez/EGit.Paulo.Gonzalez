@@ -9,4 +9,8 @@ public class Release {
 	public void valor() {
 
 	}
+
+	public void valortotal() {
+
+	}
 }
