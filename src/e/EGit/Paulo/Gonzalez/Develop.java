@@ -30,6 +30,12 @@ public class Develop {
 	public void setApellido(String apellido) {
 		this.apellido = apellido;
 	}
+	public String getDireccion() {
+		return Direccion;
+	}
+	public void setDireccion(String direccion) {
+		Direccion = direccion;
+	}
 	
 	
 
