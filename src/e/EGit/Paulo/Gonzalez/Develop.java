@@ -5,7 +5,7 @@ public class Develop {
 	private int edad;
 	private String nombre;
 	private String apellido;
-	
+	private String Direccion;
 	
 	
 
